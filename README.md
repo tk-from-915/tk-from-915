@@ -1,6 +1,11 @@
 ## Hi there 👋 I'm Kaori Toki
 <h3 align="center">A creative Web Developer bridging the gap between design and code, from UI/UX to Backend.</h3>
 
+<h2 align="left">Certifications</h2>
+<a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20--%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA" />
+</a>(Earned: Aug 2019)
+
 <h2 align="left">Tech Stack</h2>
 <p align="left">
   <h3 align="left">Languages</h3>
