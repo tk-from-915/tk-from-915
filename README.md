@@ -2,9 +2,10 @@
 <h3 align="center">A creative Web Developer bridging the gap between design and code, from UI/UX to Backend.</h3>
 
 <h2 align="left">Certifications</h2>
+Aug 2019 Earned: 
 <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20--%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA" />
-</a>(Earned: Aug 2019)
+</a>
 
 <h2 align="left">Tech Stack</h2>
 <p align="left">
@@ -61,7 +62,7 @@
 
   <h3 align="left">Test</h3>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-  <a href="https://phpunit.de/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpunit/phpunit-original.svg" alt="phpunit" width="40" height="40"/></a>
+  <a href="https://phpunit.de/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/phpunit-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="teams" /></a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   
@@ -76,16 +77,24 @@
   <a href="https://www.microsoft.com/microsoft-teams/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="teams" /></a>
 
   <h4 align="left">Task Manegement Tools</h4>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
+  </a>
   <a href="https://backlog.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Backlog-00A497?style=for-the-badge&logo=backlog&logoColor=white" alt="backlog" />
-</a>
+    <img src="https://img.shields.io/badge/Backlog-00A497?style=for-the-badge&logo=backlog&logoColor=white" alt="backlog" />
+  </a>
+  <a href="https://redmine.jp/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Redmine-d32f2f?style=for-the-badge&logo=backlog&logoColor=white" alt="Redmine" />
+  </a>
 
   <h4 align="left">AI Development Tools</h4>
   <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" alt="githubcopilot" width="40" height="40"/> </a>
-  <a href="https://www.codeium.com/windsurf" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/codeium/codeium-icon.svg" alt="windsurf" width="40" height="40"/></a>
-　<a href="https://openai.com/index/introducing-codex/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="codex" width="40" height="40"/></a>
-   
+  <a href="https://www.codeium.com/windsurf" target="_blank" rel="noreferrer">
+    <img src="https://windsurf.com/logo/windsurf-black-symbol.svg" alt="windsurf" width="40" height="40"/>
+  </a>
+　<a href="https://openai.com/index/introducing-codex/" target="_blank" rel="noreferrer">
+   <img src="https://images.ctfassets.net/kftzwdyauwt9/YgXvGzKvVcDvpJGOFyroe/777616dd860276400c9c955688dce373/codex-app.png.png" alt="codex" width="40" height="40"/>
+ </a>  
 
 <h3 align="left">Other</h3>
   <a href="https://brew.sh/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/homebrew.svg" alt="homebrew" width="40" height="40"/> </a>
@@ -94,5 +103,7 @@
   <h3 align="left">Currently Learning / Exploring</h3>
   <a href="https://www.cognition.ai/devin" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/blueprint/000000" alt="devin" width="40" height="40"/> </a>
   <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" alt="claude" width="40" height="40"/> </a>
-  <a href="https://pencil.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/pencils/F24E1E" alt="pencil.dev" width="40" height="40"/></a>
+  <a href="https://pencil.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.pencil.dev/pencil-logo-new.svg" alt="pencil.dev" height="40"/>
+  </a>
 </p>
