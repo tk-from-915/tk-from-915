@@ -88,13 +88,15 @@ Aug 2019 Earned:
   </a>
 
   <h4 align="left">AI Development Tools</h4>
+  <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" alt="claude" width="40" height="40"/></a>
+  <a href="https://openai.com/index/introducing-codex/" target="_blank" rel="noreferrer">
+   <img src="https://images.ctfassets.net/kftzwdyauwt9/YgXvGzKvVcDvpJGOFyroe/777616dd860276400c9c955688dce373/codex-app.png.png" alt="codex" width="40" height="40"/>
+ </a> 
   <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" alt="githubcopilot" width="40" height="40"/> </a>
   <a href="https://www.codeium.com/windsurf" target="_blank" rel="noreferrer">
     <img src="https://windsurf.com/logo/windsurf-black-symbol.svg" alt="windsurf" width="40" height="40"/>
   </a>
-　<a href="https://openai.com/index/introducing-codex/" target="_blank" rel="noreferrer">
-   <img src="https://images.ctfassets.net/kftzwdyauwt9/YgXvGzKvVcDvpJGOFyroe/777616dd860276400c9c955688dce373/codex-app.png.png" alt="codex" width="40" height="40"/>
- </a>  
+　 
 
 <h3 align="left">Other</h3>
   <a href="https://brew.sh/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/homebrew.svg" alt="homebrew" width="40" height="40"/> </a>
@@ -102,7 +104,6 @@ Aug 2019 Earned:
 
   <h3 align="left">Currently Learning / Exploring</h3>
   <a href="https://www.cognition.ai/devin" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/blueprint/000000" alt="devin" width="40" height="40"/> </a>
-  <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" alt="claude" width="40" height="40"/> </a>
   <a href="https://pencil.dev/" target="_blank" rel="noreferrer">
     <img src="https://www.pencil.dev/pencil-logo-new.svg" alt="pencil.dev" height="40"/>
   </a>
